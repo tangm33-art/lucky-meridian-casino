@@ -18,9 +18,3 @@ E: play at a nearby table
 On-screen controls: available on mobile
 Important
 This game uses virtual play money only. No real wagering or real-money prizes are involved.
-
-Run locally
-Open index.html directly in a modern browser, or serve the folder:
-
-python3 -m http.server 8000
-Then visit http://localhost:8000.
